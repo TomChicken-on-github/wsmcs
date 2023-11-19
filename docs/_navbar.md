@@ -4,3 +4,5 @@
 
 * 友情链接
   * [Docsify](https://docsify.js.org/#/)
+  * [雨云](https://www.rainyun.com)
+  * [彩虹云](https://www.rainbowc.cn)
