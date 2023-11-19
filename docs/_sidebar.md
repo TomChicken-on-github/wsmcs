@@ -1,7 +1,10 @@
 <!-- _sidebar.md -->
 
-* Typora+Docsify使用指南
-  * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md) <!--注意这里是相对路径-->
-  * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
-* Docsify部署
-  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
+* WSMCS服务器
+  * [服务器概述](/README.md) <!--注意这里是相对路径-->
+  * [服务器性质](/服务器性质.md)
+  * [服务器规则](/服务器规则.md)
+  * [服务器官方](/服务器官方.md)
+  * [特别鸣谢](/特别鸣谢.md)
+  * [本月赞助名单](/本月赞助名单.md)
+  * [加入WSMCS管理组](/加入WSMCS管理组.md)
